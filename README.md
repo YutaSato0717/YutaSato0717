@@ -6,4 +6,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,html,css,js,git,github,flutter&theme=dark&perline=9)](https://skillicons.dev)

@@ -12,7 +12,7 @@
 # Works
 ### [Aizu Darts](https://github.com/YutaSato0717/darts_app) :サポーターズ マンスリー vol.10 ハッカソン　
 
-### [House-Hunting](https://github.com/YutaSato0717/darts_app) :2023年度アイデアソン-アプリ開発体験 ハッカソン 優秀賞
+### [House-Hunting](https://github.com/YutaSato0717/House-Hunting) :2023年度アイデアソン-アプリ開発体験 ハッカソン 優秀賞
 
 ### [Bulk Buddy](https://github.com/YutaSato0717/BulkBuddy) :Web企業　インターンシップ　
 

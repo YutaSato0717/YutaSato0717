@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,php,c,html,css,react,remix,laravel,nextjs,aws,mysql,git,github&theme=dark&perline=15)](https://skillicons.dev)
 
 ## Works
-### [Aizu Darts](https://github.com/YutaSato0717/darts_app) :サポーターズ マンスリー vol.10 ハッカソン制作物
+### [Aizu Darts](https://github.com/YutaSato0717/darts_app) :個人アプリ制作物
 所属しているダーツサークルで、部員のダーツ試合データを記録することを目的としたアプリを作成。 （開発継続中）
 
 ### [House-Hunting](https://github.com/YutaSato0717/House-Hunting) :2023年度アイデアソン-アプリ開発体験 ハッカソン 優秀賞作品

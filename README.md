@@ -11,7 +11,7 @@
 
 ## Works
 ### [Aizu Darts](https://github.com/YutaSato0717/darts_app) :個人アプリ制作物
-所属しているダーツサークルで、部員のダーツ試合データを記録することを目的としたアプリを作成。 
+所属しているダーツサークル（[Instagram](https://www.instagram.com/darts_aizu/)）で、部員のダーツ試合データを記録することを目的としたアプリを作成。 
 
 ### [House-Hunting](https://github.com/YutaSato0717/House-Hunting) :2023年度アイデアソン-アプリ開発体験 ハッカソン 優秀賞作品
 都会に住んでいる人たちが会津若松市へ移住しやすくするために物件を紹介するアプリを作成。

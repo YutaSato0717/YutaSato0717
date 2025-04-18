@@ -1,5 +1,4 @@
 ## Hi there 👋
-会津大学学部三年　　コンピュータ理工学部
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutaSato0717&layout=compact&show_icons=true&theme=tokyonight" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=YutaSato0717&theme=tokyonight&show_icons=ture" />
@@ -7,7 +6,7 @@
 
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,php,c,html,css,react,remix,laravel,nextjs,aws,mysql,git,github&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,c,html,css,react,mysql,git,github&theme=dark&perline=15)](https://skillicons.dev)
 
 ## Works
 ### [Aizu Darts](https://github.com/YutaSato0717/darts_app) :個人アプリ制作物
